@@ -1,0 +1,29 @@
+<html>
+<body>
+<div class="chat-box">
+    <input type="checkbox" />
+    <label data-expanded="Close Messages" data-collapsed="Open Messages"></label>
+    <div class="chat-box-content">           Hello!!!
+                                                
+                                                
+        <br/>
+        <br/>
+        <br/>
+        <br/>
+        <br/>
+        <br/>
+        <br/>These are the messages from my close friend
+        <br/>
+        <br/>
+        <br/>
+        <br/>
+        <br/>
+        <br/>I can delete them forever by using the button below
+        <br/>
+        
+
+<p><input class="checkbox" type="submit" value="Delete" style="background-color:blue"/></p>
+
+
+</body>
+</html>
