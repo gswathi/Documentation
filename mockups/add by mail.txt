@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+#header {
+    background-color:black;
+    color:white;
+    text-align:center;
+    padding:5px;
+}
+#nav {
+    line-height:30px;
+    background-color:#eeeeee;
+    height:300px;
+    width:100px;
+    float:left;
+    padding:5px;	      
+}
+#section {
+    width:350px;
+    float:left;
+    padding:10px;	 	 
+}
+#footer {
+    background-color:black;
+    color:white;
+    clear:both;
+    text-align:center;
+   padding:5px;	 	 
+}
+</style>
+</head>
+<body>
+
+
+<div id="header">
+<h1>Add Friend By Email</h1>
+</div>
+
+
+</div>
+<br>
+
+
+
+
+<table style="width:100%">
+  <tr>
+    <td><p class="submit"><input class="btn" type="submit" name="commit" value="Search Friend By Email ID"style="height:50px;width:250px"></p>
+</td>
+    <td><input type="search" id="mySearch" placeholder="Search for Contacts"></td>		
+   
+  </tr>
+  <tr>
+    <td> </td>
+    <td>Results</p>
+</td>		
+    
+  </tr>
+  <tr>
+    <td>
+<p class="submit"><input class="btn" type="submit" name="commit" value="Add"style="height:40px;width:150px"></p></td>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <td><table border="1" style="width:100%">
+  <tr>
+    <td>No.</td>
+    <td>Name</td>		
+    <td>Email ID</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>		
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>		
+    <td></td>
+  </tr>
+</table></td>		
+    
+  </tr>
+</table>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div id="right">
+ 
+ 
+
+
+
+ <p class="submit"><input class="btn" type="submit" name="commit" value="Cancel"style="height:40px;width:150px"></p>
+
+
+<div id="right">
+
+
+</div>
+
+
+
+
+
+
+
+<br>
+<br>
+<div id="footer">
+@Mohamed Gharibi
+</div>
+
+</body>
+</html>
